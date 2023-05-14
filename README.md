@@ -1,16 +1,10 @@
 # test_implement_flavor
 
-A new Flutter project.
+this project how to implements of multi firebase environment and handle by flavor
+[references](https://sebastien-arbogast.com/2022/05/02/multi-environment-flutter-projects-with-flavors/)
 
-## Getting Started
+## Step to produce
+- create firebase project ex: prod and dev environtment
+- add firebase to your project
+- activate flutterfire
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

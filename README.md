@@ -7,4 +7,4 @@ this project how to implements of multi firebase environment and handle by flavo
 - create firebase project ex: prod and dev environtment
 - add firebase to your project
 - activate flutterfire
-
+- do flutterfire configure follow based on reference url above
